@@ -11,7 +11,7 @@ echo 6. Set CloudFlare DNS
 echo 7. Exit
 echo.
 color 30
-set /p choice="Lotfan yeki az option ha ra vared konid: "
+set /p choice="Please select one of the options : "
 
 if "%choice%"=="1" goto refreshDNS
 if "%choice%"=="2" goto modifyHost
