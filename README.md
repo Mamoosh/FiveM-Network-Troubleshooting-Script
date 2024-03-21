@@ -1,0 +1,2 @@
+# FiveM-Network-Troubleshooting-ScriptTitle-FiveM-Network-Troubleshooting-Script
+This repository contains a batch script designed to troubleshoot and fix common network issues related to FiveM, a popular modification framework for GTA V. The script offers several options, including resetting DNS, modifying the host file, renaming the host file, deleting and creating a new host file, and setting CloudFlare DNS.
