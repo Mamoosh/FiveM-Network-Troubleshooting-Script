@@ -16,4 +16,6 @@ This batch script is designed to help troubleshoot and resolve common network is
     - Exit
 4. Enter the number corresponding to the desired operation and press Enter.
 
+## Bat
+![alt text](bat.PNG)
 Please note that some operations require administrative privileges.
